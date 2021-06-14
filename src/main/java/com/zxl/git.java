@@ -5,6 +5,6 @@ public class git {
         System.out.println("hello git");
         System.out.println("first hello");
         System.out.println(" there hello");
-        System.out.println("hot-fix");
+        System.out.println("hello conflict");
     }
 }
