@@ -6,5 +6,6 @@ public class git {
         System.out.println("first hello");
         System.out.println(" there hello");
         System.out.println("hello conflict");
+        System.out.println("憨憨");
     }
 }
